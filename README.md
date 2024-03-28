@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I am currently working on React Native Projects<br>👯 I am looking to collaborate on Front End Website Project<br>🪴 I am currently learning React Native extensively <br>💭 Ask me anything
+🔭 I am currently working on React Native Projects<br>👯 I am looking to collaborate on Front End Website Projects<br>🪴 There more i learn, the more i know nothing. <br>💭 Ask me anything
 
 
 ## 🌐 Socials:
